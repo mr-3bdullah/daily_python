@@ -1,7 +1,10 @@
-# Python_oop
-this rebo for oob projects.
+# python repo
+ + wellcom in my repo
+ 
+=========================
 
-============================
-
-### will contain some projects it just for learn.
-+ have good time.
+##### => what is the content of repo
+	+ oop projects
+	+ data structure 
+	+ algorithm
+	+ some notes
