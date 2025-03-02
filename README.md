@@ -8,3 +8,4 @@
 	+ data structure 
 	+ algorithm
 	+ some notes
+	+ sqlite3	
