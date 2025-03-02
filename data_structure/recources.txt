@@ -1,0 +1,6 @@
+this file will have the recources:
+  - like the playlist of courses:
+      + Adel Nasim chanel   => https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=smcNb5G_yoYXfYNE
+      + Hard-Code  chanel   => https://youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS&si=kroBkfC7crOpU8wT
+
+the end of play list.
