@@ -1,0 +1,7 @@
+this file will have the recources:
+  - like the playlist of courses:
+      + KMR script chanel   => https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=OBnAvrsJhsmp9ohu
+      + SoftwareTube chanel => https://youtube.com/playlist?list=PLTr1xN4uMK5tSBFyXeonC2khyir0aMwQv&si=4oWpnSrd84kg82vF
+      + Hard-Code           => https://youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_&si=dYkl_KGf40ICj4Jx
+
+the end of play list.
